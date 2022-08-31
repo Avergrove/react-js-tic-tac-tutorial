@@ -1,6 +1,6 @@
 A ReactJS project completed based on the tutorial as provided on https://reactjs.org/tutorial/tutorial.html#overview
 
-===
+-----
 
 # Getting Started with Create React App
 
